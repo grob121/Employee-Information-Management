@@ -1,0 +1,34 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "RxSwift",
+        "repositoryURL": "https://github.com/ReactiveX/RxSwift.git",
+        "state": {
+          "branch": "main",
+          "revision": "95917a57a58734cd7b747361add398906e8b255c",
+          "version": null
+        }
+      },
+      {
+        "package": "Swinject",
+        "repositoryURL": "https://github.com/Swinject/Swinject.git",
+        "state": {
+          "branch": null,
+          "revision": "8bc503e60965298984fb58cf47b71c541449fe2a",
+          "version": "2.8.3"
+        }
+      },
+      {
+        "package": "SwinjectAutoregistration",
+        "repositoryURL": "https://github.com/Swinject/SwinjectAutoregistration",
+        "state": {
+          "branch": null,
+          "revision": "2f37415084584d0aa97007e43eb7a2498ccf770e",
+          "version": "2.8.3"
+        }
+      }
+    ]
+  },
+  "version": 1
+}

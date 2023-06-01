@@ -1,0 +1,24 @@
+{
+    "accounts" : [
+        {
+            "companyName" : "Pointwest",
+            "password" : "pointwest123"
+        },
+        {
+            "companyName" : "IBM",
+            "password" : "ibm123"
+        },
+        {
+            "companyName" : "PCCW",
+            "password" : "pccw123"
+        },
+        {
+            "companyName" : "Accenture",
+            "password" : "accenture123"
+        },
+        {
+            "companyName" : "Innovations",
+            "password" : "innovations123"
+        }
+    ]
+}
